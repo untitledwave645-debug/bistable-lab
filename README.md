@@ -2,6 +2,8 @@
 
 用真实面包板的孔位来学习《三极管双稳态电路实验》图 1。React、TypeScript、React Three Fiber、Drei、Zustand 和 Vite；仅在本地运行，没有远程服务。
 
+![三极管双稳态电路原理图](public/schematic.png)
+
 ## 启动
 
 开发环境使用 Node.js 24。新环境运行：
