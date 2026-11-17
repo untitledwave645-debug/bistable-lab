@@ -4,6 +4,10 @@
 
 ![三极管双稳态电路原理图](public/schematic.png)
 
+## 完成效果
+
+![完整搭建后的 3D 实验台，处于 LED1 点亮的逻辑演示状态](docs/images/completed-lab.png)
+
 ## 启动
 
 开发环境使用 Node.js 24。新环境运行：
